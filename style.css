@@ -487,6 +487,6 @@ resize: none;
         flex-direction: column;
     }
     .project-card{
-        transfrom: translateX(-40px)
+        transform: translateX(-40px);
     }
 }
