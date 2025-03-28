@@ -486,4 +486,7 @@ resize: none;
     .contact form{
         flex-direction: column;
     }
+    .project-card{
+        transfrom: translatex(-40px)
+    }
 }
