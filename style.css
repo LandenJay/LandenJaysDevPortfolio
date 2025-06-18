@@ -180,7 +180,7 @@ section{
     box-shadow: 0 0 25px var(--main-color);
     border-radius: 3rem;
     font-size: 1.8rem;
-    color: black;
+    color: #000000;
     border: 2px solid transparent;
     font-weight: 600;
     transition: 0.3s ease-in-out;
